@@ -48,70 +48,6 @@
       "price": "202.50",
       "status": "3"
     },
-    "INCH|76575|20260321|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:50 AM",
-      "date": "20260321",
-      "cat": "Club",
-      "price": "202.49",
-      "status": "3"
-    },
-    "INCH|76575|20260321|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:50 AM",
-      "date": "20260321",
-      "cat": "Executive",
-      "price": "59.43",
-      "status": "3"
-    },
-    "INCH|76582|20260321|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "02:45 PM",
-      "date": "20260321",
-      "cat": "Club",
-      "price": "202.49",
-      "status": "3"
-    },
-    "INCH|76582|20260321|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "02:45 PM",
-      "date": "20260321",
-      "cat": "Executive",
-      "price": "59.43",
-      "status": "3"
-    },
-    "INCH|76576|20260321|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "05:40 PM",
-      "date": "20260321",
-      "cat": "Club",
-      "price": "202.49",
-      "status": "3"
-    },
-    "INCH|76576|20260321|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "05:40 PM",
-      "date": "20260321",
-      "cat": "Executive",
-      "price": "59.43",
-      "status": "3"
-    },
-    "INCH|76577|20260321|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "10:25 PM",
-      "date": "20260321",
-      "cat": "Club",
-      "price": "202.49",
-      "status": "3"
-    },
-    "INCH|76577|20260321|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "10:25 PM",
-      "date": "20260321",
-      "cat": "Executive",
-      "price": "59.43",
-      "status": "3"
-    },
     "PVES|26873|20260321|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
       "time": "10:00 AM",
@@ -155,86 +91,6 @@
     "PVES|26875|20260321|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
       "time": "10:50 PM",
-      "date": "20260321",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "3"
-    },
-    "PVPZ|29996|20260321|ELITE": {
-      "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
-      "time": "10:15 AM",
-      "date": "20260321",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVPZ|29996|20260321|BUDGET": {
-      "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
-      "time": "10:15 AM",
-      "date": "20260321",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "3"
-    },
-    "PVPZ|29991|20260321|ELITE": {
-      "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
-      "time": "06:00 PM",
-      "date": "20260321",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVPZ|29991|20260321|BUDGET": {
-      "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
-      "time": "06:00 PM",
-      "date": "20260321",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "3"
-    },
-    "PVPZ|29998|20260321|ELITE": {
-      "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
-      "time": "11:00 PM",
-      "date": "20260321",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVPZ|29998|20260321|BUDGET": {
-      "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
-      "time": "11:00 PM",
-      "date": "20260321",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "3"
-    },
-    "PVTJ|7253|20260321|ELITE": {
-      "venue": "PVR: Theyagaraja, Thiruvanmiyur, Chennai",
-      "time": "06:00 PM",
-      "date": "20260321",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVTJ|7253|20260321|BUDGET": {
-      "venue": "PVR: Theyagaraja, Thiruvanmiyur, Chennai",
-      "time": "06:00 PM",
-      "date": "20260321",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "2"
-    },
-    "PVTJ|7254|20260321|ELITE": {
-      "venue": "PVR: Theyagaraja, Thiruvanmiyur, Chennai",
-      "time": "10:40 PM",
-      "date": "20260321",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVTJ|7254|20260321|BUDGET": {
-      "venue": "PVR: Theyagaraja, Thiruvanmiyur, Chennai",
-      "time": "10:40 PM",
       "date": "20260321",
       "cat": "BUDGET",
       "price": "59.43",
@@ -304,6 +160,118 @@
       "price": "59.43",
       "status": "0"
     },
+    "PVPZ|29996|20260321|ELITE": {
+      "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
+      "time": "10:15 AM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "2"
+    },
+    "PVPZ|29996|20260321|BUDGET": {
+      "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
+      "time": "10:15 AM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVPZ|29991|20260321|ELITE": {
+      "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
+      "time": "06:00 PM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVPZ|29991|20260321|BUDGET": {
+      "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
+      "time": "06:00 PM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVPZ|29998|20260321|ELITE": {
+      "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
+      "time": "11:00 PM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVPZ|29998|20260321|BUDGET": {
+      "venue": "PVR: Palazzo,The Nexus Vijaya Mall",
+      "time": "11:00 PM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "INCH|76575|20260321|Club": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "09:50 AM",
+      "date": "20260321",
+      "cat": "Club",
+      "price": "202.49",
+      "status": "3"
+    },
+    "INCH|76575|20260321|Executive": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "09:50 AM",
+      "date": "20260321",
+      "cat": "Executive",
+      "price": "59.43",
+      "status": "3"
+    },
+    "INCH|76582|20260321|Club": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "02:45 PM",
+      "date": "20260321",
+      "cat": "Club",
+      "price": "202.49",
+      "status": "3"
+    },
+    "INCH|76582|20260321|Executive": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "02:45 PM",
+      "date": "20260321",
+      "cat": "Executive",
+      "price": "59.43",
+      "status": "3"
+    },
+    "INCH|76576|20260321|Club": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "05:40 PM",
+      "date": "20260321",
+      "cat": "Club",
+      "price": "202.49",
+      "status": "3"
+    },
+    "INCH|76576|20260321|Executive": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "05:40 PM",
+      "date": "20260321",
+      "cat": "Executive",
+      "price": "59.43",
+      "status": "3"
+    },
+    "INCH|76577|20260321|Club": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "10:25 PM",
+      "date": "20260321",
+      "cat": "Club",
+      "price": "202.49",
+      "status": "3"
+    },
+    "INCH|76577|20260321|Executive": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "10:25 PM",
+      "date": "20260321",
+      "cat": "Executive",
+      "price": "59.43",
+      "status": "3"
+    },
     "PSKL|18739|20260321|PRIME": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
       "time": "06:00 PM",
@@ -335,6 +303,38 @@
       "cat": "CLASSIC",
       "price": "59.43",
       "status": "0"
+    },
+    "PVTJ|7253|20260321|ELITE": {
+      "venue": "PVR: Theyagaraja, Thiruvanmiyur, Chennai",
+      "time": "06:00 PM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVTJ|7253|20260321|BUDGET": {
+      "venue": "PVR: Theyagaraja, Thiruvanmiyur, Chennai",
+      "time": "06:00 PM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "2"
+    },
+    "PVTJ|7254|20260321|ELITE": {
+      "venue": "PVR: Theyagaraja, Thiruvanmiyur, Chennai",
+      "time": "10:40 PM",
+      "date": "20260321",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVTJ|7254|20260321|BUDGET": {
+      "venue": "PVR: Theyagaraja, Thiruvanmiyur, Chennai",
+      "time": "10:40 PM",
+      "date": "20260321",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "2"
     }
   },
   "dates": {
