@@ -1,4 +1,4 @@
-# BMS Ticket Notifier
+# BMS Ticket Notifier ( forked for personal use)
 
 Automatically monitors [BookMyShow](https://in.bookmyshow.com) for ticket availability and sends you an email alert when something changes.
 
